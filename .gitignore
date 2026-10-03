@@ -1,0 +1,9 @@
+# 名刺データ・画像はこのリポジトリに絶対に入れない(非公開リポジトリ not-meishi-data 側で管理)
+*.jpg
+*.jpeg
+*.png
+*.heic
+*.HEIC
+*.csv
+data/
+.DS_Store
